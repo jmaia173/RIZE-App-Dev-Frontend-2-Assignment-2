@@ -1,0 +1,9 @@
+/* CSS in this file was written with the help of AI (Claude by Anthropic). */
+
+.product-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 24px;
+  padding: 24px;
+}
